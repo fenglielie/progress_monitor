@@ -651,14 +651,14 @@ class ProgressMonitorApp:
         about_texts = {
             "en": (
                 "Progress Monitor\n\n"
-                "This is a progress monitor implemented using Python3 Tkinter. "
-                "It allows users to monitor the progress of ongoing tasks by reading the progress file.\n\n"
+                "This is a Python Tkinter-based GUI tool script for monitoring progress information in log files,"
+                "providing corresponding statistics and display functions.\n\n"
                 "fenglielie@qq.com"
             ),
             "cn": (
                 "进度监视器\n\n"
-                "这是一个基于Python3 Tkinter实现的进度监视器。"
-                "它允许用户通过读取进度文件来监控正在进行的任务进度。\n\n"
+                "这是一个基于 Python Tkinter 的 GUI 工具脚本，"
+                "用于监控日志文件中的进度信息，提供相应的统计和显示功能。\n\n"
                 "fenglielie@qq.com"
             ),
         }
